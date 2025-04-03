@@ -1,4 +1,15 @@
 {
-  "graph": {},
-  "pages": {}
+  "graph": {
+    "/posts/example/": {
+      "in": [],
+      "out": []
+    }
+  },
+  "pages": {
+    "/posts/example/": {
+      "permalink": "/posts/example/",
+      "section": "posts",
+      "title": "Example Post!"
+    }
+  }
 }

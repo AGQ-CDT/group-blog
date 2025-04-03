@@ -26,9 +26,9 @@
     mod
   ));
 
-  // ../../node_modules/vis-data/peer/umd/vis-data.js
+  // node_modules/vis-data/peer/umd/vis-data.js
   var require_vis_data = __commonJS({
-    "../../node_modules/vis-data/peer/umd/vis-data.js"(exports, module) {
+    "node_modules/vis-data/peer/umd/vis-data.js"(exports, module) {
       "use strict";
       (function(global2, factory) {
         typeof exports === "object" && typeof module !== "undefined" ? factory(exports) : typeof define === "function" && define.amd ? define(["exports"], factory) : (global2 = typeof globalThis !== "undefined" ? globalThis : global2 || self, factory(global2.vis = global2.vis || {}));
@@ -9522,9 +9522,9 @@
     }
   });
 
-  // ../../node_modules/vis-network/peer/umd/vis-network.min.js
+  // node_modules/vis-network/peer/umd/vis-network.min.js
   var require_vis_network_min = __commonJS({
-    "../../node_modules/vis-network/peer/umd/vis-network.min.js"(exports, module) {
+    "node_modules/vis-network/peer/umd/vis-network.min.js"(exports, module) {
       "use strict";
       !function(t, e) {
         "object" == typeof exports && "undefined" != typeof module ? e(exports, require_vis_data()) : "function" == typeof define && define.amd ? define(["exports", "vis-data/peer/umd/vis-data.js"], e) : e((t = "undefined" != typeof globalThis ? globalThis : t || self).vis = t.vis || {}, t.vis);
@@ -18652,7 +18652,7 @@
     }
   };
 
-  // ../../node_modules/vis-network/standalone/esm/vis-network.js
+  // node_modules/vis-network/standalone/esm/vis-network.js
   var commonjsGlobal = typeof globalThis !== "undefined" ? globalThis : typeof window !== "undefined" ? window : typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : {};
   function getDefaultExportFromCjs(x) {
     return x && x.__esModule && Object.prototype.hasOwnProperty.call(x, "default") ? x["default"] : x;

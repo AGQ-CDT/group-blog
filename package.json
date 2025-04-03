@@ -1,0 +1,22 @@
+{
+  "name": "bloggle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AGQ-CDT-Edinburgh/group-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AGQ-CDT-Edinburgh/group-blog/issues"
+  },
+  "homepage": "https://github.com/AGQ-CDT-Edinburgh/group-blog#readme",
+  "dependencies": {
+    "vis-network": "^9.1.9"
+  }
+}
