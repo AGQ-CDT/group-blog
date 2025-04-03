@@ -14,4 +14,4 @@ test $$t^2$$
 
 [link to the other post](../example2)
 
-{{</* backlink "example2" "Link" */>}}
+{{< backlink "example2" "Link" >}}
