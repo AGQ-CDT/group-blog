@@ -1,6 +1,7 @@
 ---
 title: Example Post!
 date: 2025-04-03
+author: Isky Mathews & Shing Tak Lam
 math: true
 ---
 
