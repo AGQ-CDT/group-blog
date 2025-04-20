@@ -26,7 +26,7 @@ Then we must split into cases:
 
 Again, we start by assuming $G$ is rigid and see what constraints this gives us. Well a big supply of automorphisms is the inner ones: conjugation by some element $g\in G$ sending $h \mapsto ghg^{-1}$. Rigidity tells us that $h = ghg^{-1}$ for every $g,h \in G$ or in other words that $G$ is abelian!
 
-This is exciting as for abelian groups, inverting elements is actually a group homomorphism: $$(gh)^{-1} = h^{-1}g^{-1} = g^{-1}h^{-1}$$ and since it's an involution which fixes the identity it must be an isomorphism. Thus rigidity tells us that $g^{-1} = g \iff g^2 = 1$ or, in additive notation, we can think of it as $2g = 0$. Thus $G$ is none other than vector space over $\mathbb{Z} / 2 \mathbb{Z}$!
+This is exciting as for abelian groups, inverting elements is actually a group homomorphism: $$(gh)^{-1} = h^{-1}g^{-1} = g^{-1}h^{-1}$$ and since it's an involution which fixes the identity it must be an isomorphism. Thus rigidity tells us that $g^{-1} = g \iff g^2 = 1$ or, in additive notation, we can think of it as $2g = 0$. Thus $G$ is none other than a vector space over $\mathbb{Z} / 2 \mathbb{Z}$!
 
 Reducing to our previous case above, we see that the rigid groups are precisely the trivial group and $\mathbb{Z} / 2\mathbb{Z}$.
 
@@ -40,7 +40,7 @@ Something else which might count as a notion of space is manifolds. Note that if
 
 If we decide to expand our search to look at all topological spaces, it suddenly becomes very complicated again. Clearly a point works but is that everything? After some thought, I came up with the following infinite class of examples. For $n \in \mathbb{N}$, construct a space from the ordered set $1 < 2 < \ldots < n$ by having the open sets $\\{ \\}, \\{ 1 \\}, \\{ 1,2 \\}, \\{ 1,2,3 \\}, \ldots, \\{ 1,\ldots, n \\}$; any homeomorphism from itself to itself can be proven to be the identity by induction.
 
-This seems to be far from all of the rigid spaces & in fact this appears to be somewhat of an active research topic. For an interesting or exotic example of another rigid topological space, consider the *Golomb space* as discussed on my own blog [here](n-simplex.github.io/).
+This seems to be far from all of the rigid spaces & in fact this appears to be somewhat of an active research topic. For an interesting or exotic example of another rigid topological space, consider the *Golomb space* as discussed on my own blog [here](https://n-simplex.github.io/).
 
 ## Rings
 
