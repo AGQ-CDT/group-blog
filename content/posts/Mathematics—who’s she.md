@@ -1,6 +1,11 @@
-﻿Mathematics—who’s she?
+---
+title: Mathematics—Who's she?
+date: 2025-07-22
+author: Lucy Spouncer
+math: true
+---
 
-“*Mathematics is not built from rigorous logical necessity.”* - Lucy Spouncer, a 23 year old PhD student at Edinburgh University explores how mathematics is constructed as a reflection of the minds, culture, priorities and passions of the established practicing community of mathematicians.
+*“Mathematics is not built from rigorous logical necessity.”* - Lucy Spouncer, a 23 year old PhD student at Edinburgh University explores how mathematics is constructed as a reflection of the minds, culture, priorities and passions of the established practicing community of mathematicians.
 
 
 
