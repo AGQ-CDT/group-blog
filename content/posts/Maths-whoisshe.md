@@ -59,7 +59,7 @@ A 2014 study showed that women are interrupted on average 33% more than men \[1]
 
 
 
-The pattern reveals a maddening catch-22: women are interrupted more, speak less, yet are still seen as talking too much. For a woman, taking a central role in a conversation is as comfortable as blasting death metal in a yoga class.
+The pattern reveals a maddening catch-22: women are interrupted more, speak less, yet are still seen as talking too much. For a woman, taking a central role in conversation is as comfortable as blasting death metal in a yoga class.
 
 
 
