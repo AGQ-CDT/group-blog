@@ -128,9 +128,7 @@ If you're reading this and my accounts feel alien to you, you could just take my
 
 
 
-And if this post resonates with you—intervene and amplify.
-
-□
+And if this post resonates with you—intervene and amplify. □
 
 
 <br>
