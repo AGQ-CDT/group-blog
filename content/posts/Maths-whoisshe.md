@@ -33,7 +33,7 @@ Collected by the Women Interrupted app, conversational data shows that women get
 
 A 2014 study showed that women are interrupted on average 33% more than men \[1]. From casual conversations to female justices at the Supreme Court \[2], the trends are the same. That might be okay though, if men and women got equal airtime. But they don’t. One prime example is a 2017 study of 250 academic seminars in 10 countries \[3], which saw men asking 2.5 times as many questions as women. What about when women actually speak their (gruellingly fought for) half of the time? Naturally, they are perceived as dominating the conversation \[4].
 
-The pattern reveals a maddening catch 22: women are interrupted more, speak less, yet are still seen as talking too much. For a woman, taking a central role in conversation is as comfortable as blasting death metal in a yoga class.
+The pattern reveals a maddening catch-22: women are interrupted more, speak less, yet are still seen as talking too much. For a woman, taking a central role in conversation is as comfortable as blasting death metal in a yoga class.
 
 
 ### Hidden bias. 
