@@ -60,7 +60,7 @@ The only way that mathematics retains objectivity and universality is by acknowl
 
 I recall a comment from Graeme Segal at the Categorical Symmetries conference at the International Centre for Mathematical Sciences in Edinburgh last summer, when he was questioned about locality as an inherent property of a physical system. He said that locality does not live in some separate Platonic realm, our laws of physics represent our human experience of the world. Locality is our observed and lived reality, and we cannot separate the observer from the phenomenon, nor from our models. In mathematics, it's even harder to get recognition of this idea.
 
-#### Amplify quiet truths. 
+### Amplify quiet truths. 
 Inclusive mathematics means recognising the gap between mathematical truth and mathematical authority, in its language and culture, in its epistemological strength, its direction, and whose voices have the authority to shape it. So, how do we address this authority gap?
 
 At a table at the Bonn conference dinner, an associate professor and speaker at the conference, Nils Carqueville mentioned why someone in his field might care about my project. Assuming that I go on to formulate the poisson and deformation quantisation operads in spectra, we could expect to use them for studying deformation theory of TQFTs and lattice systems in the spectral setting. Kitaev's spectrum provides a natural starting point, however, even more interesting deformations likely lie beyond the characterisation of semisimple theories, in topological twists of supersymmetric theories and gauge theories for example. What a vision that would be! Oh, to be able to connect spectra, lattice systems, TQFTs, and deformation theory through my project.
