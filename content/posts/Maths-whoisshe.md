@@ -83,7 +83,7 @@ And if this post resonates with you—intervene and amplify. □
 
 
 ---
-#### References  
+### References  
 \[1] [Influence of Communication Partner’s Gender on Language](http://dx.doi.org/10.1177/0261927X14533197)  
 \[2] [Female Supreme Court Justices Are Interrupted More by Male Justices and Advocates](https://hbr.org/2017/04/female-supreme-court-justices-are-interrupted-more-by-male-justices-and-advocates)  
 \[3] [Women's visibility in academic seminars: women ask fewer questions than men](https://arxiv.org/abs/1711.10985)  
