@@ -13,7 +13,7 @@ Mathematics as a discipline gets its authority from its extolled virtues of obje
 
 
 <br>
-
+<br>
 
 **Question the audience.** Imagine you're at a conference, maybe you're at the Max Planck Institute in Bonn. Imagine you're engrossed in a talk about your current favourite research topic, maybe it's about Alexei Kitaev's conjectures around topological quantum field theories (TQFTs) and categorical spectra. Imagine you start to get a bit lost towards the second half of the lecture. You look around and wonder whether to ask the man to your left for clarification. Maybe it's Kitaev himself, the reason 100 researchers are attending this two week conference. Or you could ask the man in the row behind you, or the man to your right, or the man to his right. Maybe you look around and notice the man sat in every other seat in the lecture theatre, except yours. Imagine you're the only woman in an audience of 50 men; maybe you're me.
 
