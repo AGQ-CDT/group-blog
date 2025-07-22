@@ -86,7 +86,7 @@ All the while we interpret confidence as competence, all the while we let system
 
 
 
-Mathematical objects don't have fixed meanings. When I describe a manifold, for example, I'm not just conveying information, I'm performing interpretive acts that were learned through my training in particular mathematical communities. This hermeneutical argument skims the surface of the ongoing research of Irida Altman on ‘Textuality and mathematics’. First I might write a symbolic presentation using charts, then draw a 3-dimensional blob projected onto a chalkboard. Eventually, I would move on to precise verbal analogies of holes in higher dimensions, and locality principles. I might throw in the statement that manifolds are the ‘right’ model for spacetime.
+Mathematical objects don't have fixed meanings. When I describe a manifold, for example, I'm not just conveying information, I'm performing interpretive acts that were learned through my training in particular mathematical communities. This hermeneutical argument skims the surface of the ongoing research of Irida Altman on ‘Textuality and mathematics’\[5]. First I might write a symbolic presentation using charts, then draw a 3-dimensional blob projected onto a chalkboard. Eventually, I would move on to precise verbal analogies of holes in higher dimensions, and locality principles. I might throw in the statement that manifolds are the ‘right’ model for spacetime.
 
 
 
@@ -123,12 +123,12 @@ Those with authority, recognise it, and use it to amplify the work of others. En
 <p>
 
 
-**Authority in action.** The undisputable authority on The Authority Gap, Mary Ann Sieghart, presents several key strategies to combat this bias in her *Guardian* ‘best politics book of the year’.
+**Authority in action.** The undisputable authority on The Authority Gap, Mary Ann Sieghart, presents several key strategies to combat this bias in her *Guardian* ‘best politics book of the year’\[6].
 
 1. **Choose a woman to ask the first question.** When chairing meetings or seminars, - this sets the tone for balanced participation throughout the discussion.
 2. **Acknowledge underrepresented collaborators at the start**, at conferences and workshops, begin both talks and discussions with their names. Before attributing yet another theorem to the established titans of your field, pause to consider if other quieter voices may have gotten there first.
 3. **Amplify and attribute in the moment**. When a female colleague makes a valuable point, repeat it while giving her credit.
-4. **Plaster department walls with posters of female, ethnically diverse, and queer mathematicians** \[5]**,** and don't just advertise their persecution, they didn't pursue mathematics to talk about how hard it was. They came to do maths—advertise their actual research.
+4. **Plaster department walls with posters of female, ethnically diverse, and queer mathematicians** \[7]**,** and don't just advertise their persecution, they didn't pursue mathematics to talk about how hard it was. They came to do maths—advertise their actual research.
 
 </p>
 <p>
@@ -147,6 +147,8 @@ And if this post resonates with you—intervene and amplify. □
 \[2] [Female Supreme Court Justices Are Interrupted More by Male Justices and Advocates](https://hbr.org/2017/04/female-supreme-court-justices-are-interrupted-more-by-male-justices-and-advocates)  
 \[3] [Women's visibility in academic seminars: women ask fewer questions than men](https://arxiv.org/abs/1711.10985)  
 \[4] [Speaker sex and perceived apportionment of talk | Applied Psycholinguistics | Cambridge Core](https://doi.org/10.1017/S0142716400008882)  
-\[5] [Successful female leaders empower women's behavior in leadership tasks - ScienceDirect](https://doi.org/10.1016/j.jesp.2013.01.003)
+\[5] [Textuality and Mathematics: A Hermeneutics](https://www.researchgate.net/publication/390970796_Project_Precis_-_Textuality_and_Mathematics_A_Hermeneutics)  
+\[6] [The Authority gap: Why Women Are Still Taken Less Seriously Than Men](https://www.maryannsieghart.com/the-authority-gap/)
+\[7] [Successful female leaders empower women's behavior in leadership tasks - ScienceDirect](https://doi.org/10.1016/j.jesp.2013.01.003)
 
 
